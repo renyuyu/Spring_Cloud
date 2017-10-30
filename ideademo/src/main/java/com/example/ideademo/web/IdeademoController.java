@@ -14,7 +14,7 @@ public class IdeademoController {
     private final Logger logger = Logger.getLogger(getClass());
 
     @Autowired
-    private DiscoveryClient client;
+    private  DiscoveryClient client;
 
     @RequestMapping(value = "/hello", method = RequestMethod.GET)
     public String index(){
