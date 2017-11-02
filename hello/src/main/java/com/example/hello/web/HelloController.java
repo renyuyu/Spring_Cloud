@@ -1,4 +1,4 @@
-package com.example.ideademo.web;
+package com.example.hello.web;
 
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class IdeademoController {
+public class HelloController {
 
     private final Logger logger = Logger.getLogger(getClass());
 
