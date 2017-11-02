@@ -1,0 +1,25 @@
+eureka
+英 [juˈri:kə] 美 [jʊ'ri:kə]
+int.
+（因找到某物，尤指问题的答案而高兴）我发现了，我找到了
+服务注册中心
+
+Groovy
+英 [ˈgru:vi]   美 [ˈɡruvi]  
+adj.
+绝妙的;槽的，沟的;流行的;最佳状态的
+Groovy是一种基于JVM（Java虚拟机）的敏捷开发语言，它结合了Python、Ruby和Smalltalk的许多强大的特性，Groovy 代码能够与 Java 代码很好地结合，也能用于扩展现有代码。由于其运行在 JVM 上的特性，Groovy 可以使用其他 Java 语言编写的库。
+
+Gradle
+英 [ɡreɪdl] 美 [ɡredl]
+摇篮
+基于Apache Ant和Apache Maven概念的项目自动化构建工具。它使用一种基于Groovy的特定领域语言(DSL)来声明项目设置，抛弃了基于XML的各种繁琐配置。
+面向Java应用为主。当前其支持的语言限于Java、Groovy、Kotlin和Scala，计划未来将支持更多的语言。
+
+
+ribbon
+英 [ˈrɪbən] 美 [ˈrɪbən]
+n.
+带;绶带;（打印机的）色带;带状物
+v.
+把…撕成条带;用缎带装饰;形成带状

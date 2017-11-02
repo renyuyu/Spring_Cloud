@@ -1,0 +1,16 @@
+#这里的笔记是为了更好的输入到百度脑图软件中
+
+YAML:
+server:
+	port:8881
+---
+spring:
+	profile:test
+server:
+	port:8882
+---
+spring:
+	profile:prod
+server:
+	port:8882
+
